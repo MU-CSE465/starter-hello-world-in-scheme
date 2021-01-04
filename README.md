@@ -10,8 +10,10 @@ In particular, you should not use unapproved API functions or language features 
 1.  Modify the file `hello-world.scm`  to display the _exact_ text below:
     ```
     Hello, world!
+    
     ```
     Please note, there is NO leading or trailing whitespace.   There is exactly one space after the comma. 
+    There is a newline at the end. 
       
     In general, I will not remind you of that every time since you can select the text to see the whitespace, or copy it into an editor. 
 
