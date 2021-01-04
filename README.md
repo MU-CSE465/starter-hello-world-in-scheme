@@ -1,7 +1,7 @@
 # Hello World in Scheme
 
 Use the scheme programming language do some basic operations.  
-You can use `mit-scheme` to test this on `ceclnx0.csi.miamioh.edu` by connecting with your favorite SSH client.  
+You can use `mit-scheme` to test this on `ceclnx01.csi.miamioh.edu` by connecting with your favorite SSH client.  
 You can also test it using the excellent https://racket-lang.org/   
 However, **be aware, using non-standard features of mit or drscheme are not allowed**.  
 In particular, you should not use unapproved API functions or language features not covered in the book or class. 
